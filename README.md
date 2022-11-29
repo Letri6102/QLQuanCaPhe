@@ -1,4 +1,4 @@
-# 📃 Graph Algorithm
+# 📃 QUẢN LÝ QUÁN 
 
 <h1 align="center">Đề tài kết thúc môn học do ThS.Lương Trần Ngọc Khiết phụ trách</h1> 
 
